@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: ke
+Version: 0.0.4
+Summary: File access utils
+Home-page: https://github.com/thorwhalen/uu/tree/master/ke
+Author: Thor Whalen
+License: apache-2.0
+Platform: any
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+
+# ke
+File access utils
+
+
+To install:	```pip install ke```
+
+
